@@ -1,0 +1,13 @@
+body {
+  background-color:rgb(148, 137, 128);
+}
+
+.sidebar {
+  float: left;
+  background-color: rgb(221, 160, 111);
+  height: 200px;
+}
+
+.intro {
+  font-family: cursive;
+}
