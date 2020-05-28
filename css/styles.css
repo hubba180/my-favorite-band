@@ -6,6 +6,9 @@ body {
   float: left;
   background-color: rgb(221, 160, 111);
   height: 200px;
+  border: 5px solid black;
+  margin: 20px;
+  padding: 5px;
 }
 
 .intro {
@@ -21,6 +24,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 700px;
+  padding: 10px;
 }
 
 .columns {
@@ -29,3 +33,4 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
